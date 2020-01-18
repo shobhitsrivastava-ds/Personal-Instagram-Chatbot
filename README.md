@@ -6,7 +6,7 @@
 * We all should know that in the coming months Instagram will be closing all of the api available for accesing its website, so for data scraping and for all other purposed we just have to follow the steps to carry out the similar task.
 * The tools used were Selenium and Python.
 * The IDE used was Sublime Text.
-# To share dialogue with the chatbot follow the following commands :
+### To share dialogue with the chatbot follow the following commands :
                                               $ git clone <repo-link>
                                               $ cd Personal-Instagram-Chatbot
                                               $ python3 main.py
