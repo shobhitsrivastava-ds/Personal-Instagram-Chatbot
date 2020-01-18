@@ -4,7 +4,7 @@
 * Developed a basic chatbot in Python which Login to the user's account and answers several queries asked by the user.
 * As mentioned this project being a kind of basic one, one can clone and use it so as to make it better with more functionalities.
 * We all should know that in the coming months Instagram will be closing all of the api available for accesing its website, so for data scraping and for all other purposed we just have to follow the steps as carried out in this project.
-* The tools used were Selenium and Python.
+* The tools used were [Selenium](https://www.youtube.com/watch?v=mOAXEQevCAE) and Python.
 * The IDE used was Sublime Text.
 * To be made note that in the coming future I will be adding a basic UI to the project along with Voice features.
 #Staytuned
